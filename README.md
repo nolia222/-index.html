@@ -1,4 +1,4 @@
-# -index.html
+<!DOCTYPE html>
 Clinical ward
 <!DOCTYPE html>
 
